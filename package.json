@@ -2,7 +2,7 @@
   "name": "ra16-1.1-store-func",
   "version": "0.1.0",
    "private": true,
-   "homepage": "https://github.com/AlekseyAD/ra16-1.1-store-func",
+   "homepage": "https://alekseyad.github.io/ra16-1.1-store-func/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
