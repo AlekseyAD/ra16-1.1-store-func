@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AlekseyAD/ra16-1.1-store-func/static/css/main.34093ed6.css",
+    "main.js": "/AlekseyAD/ra16-1.1-store-func/static/js/main.fc60cd69.js",
+    "static/js/787.51109278.chunk.js": "/AlekseyAD/ra16-1.1-store-func/static/js/787.51109278.chunk.js",
+    "static/media/item-blue.jpg": "/AlekseyAD/ra16-1.1-store-func/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/AlekseyAD/ra16-1.1-store-func/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/AlekseyAD/ra16-1.1-store-func/index.html",
+    "main.34093ed6.css.map": "/AlekseyAD/ra16-1.1-store-func/static/css/main.34093ed6.css.map",
+    "main.fc60cd69.js.map": "/AlekseyAD/ra16-1.1-store-func/static/js/main.fc60cd69.js.map",
+    "787.51109278.chunk.js.map": "/AlekseyAD/ra16-1.1-store-func/static/js/787.51109278.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34093ed6.css",
+    "static/js/main.fc60cd69.js"
+  ]
+}
